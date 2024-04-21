@@ -1,6 +1,4 @@
-# Nama Aplikasi
-
-Deskripsi singkat tentang aplikasi Anda di sini.
+# Laravel Test Bookingtogo
 
 ## Instalasi
 
